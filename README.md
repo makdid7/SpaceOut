@@ -7,8 +7,9 @@ A UI-focused star-gallery app reflecting my fascination with the pulchritude of 
 * Responsive layout
 * Positive & negative space
 
+## Screenshots (click for full view)
 
-![Space Out - Screenshot 1](https://github.com/user-attachments/assets/453576ba-8b8f-45c4-904c-604b6a11a97d)
+![Space Out - Screenshot 1](https://github.com/user-attachments/assets/901499b4-5272-4c41-9dce-03ee00093ebe)
 
 
-![Space Out - Screenshot 2](https://github.com/user-attachments/assets/43ecfe04-9d21-4583-912e-f94d603c1a72)
+![Space Out - Screenshot 2](https://github.com/user-attachments/assets/5d9983ee-4e3e-4643-8946-b89d57cb7327)
