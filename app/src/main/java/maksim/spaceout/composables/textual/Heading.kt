@@ -9,9 +9,9 @@ import androidx.compose.ui.unit.sp
 import maksim.spaceout.R
 
 @Composable
-fun Heading() {
+fun Heading(text: String) {
     BaseText(
-        text = "Space out.",
+        text = text,
         fontFamily = FontFamily(Font(R.font.bright_melody)),
         letterSpacing = 2.sp,
         color = Color(0xFFB58FCE),
