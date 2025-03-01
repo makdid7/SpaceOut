@@ -8,9 +8,9 @@ import androidx.compose.ui.unit.sp
 import maksim.spaceout.R
 
 @Composable
-fun Subheading() {
+fun Subheading(text: String) {
     BaseText(
-        text = "Welcome to Hubble's illustrious vision of the uncharted void...",
+        text = text,
         fontFamily = FontFamily(Font(R.font.unbounded_medium)),
         fontWeight = FontWeight.Medium,
         fontSize = 20.sp,
