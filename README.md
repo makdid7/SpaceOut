@@ -3,7 +3,7 @@ A UI-focused star-gallery app reflecting my fascination with the pulchritude of 
 
 ## Areas of focus
 * Architectural modularity
-* Visuotextual harmony
+* Visuotextual coordination
 * Responsive layout
 * Positive & negative space
 
