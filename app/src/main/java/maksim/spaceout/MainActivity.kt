@@ -37,9 +37,9 @@ val bgColor = Color(0xFF2e293a)
 fun GreetingSection() {
     Column {
         Spacer(modifier = Modifier.height(100.dp))
-        Heading()
+        Heading("Space out.")
         Spacer(modifier = Modifier.height(40.dp))
-        Subheading()
+        Subheading("Welcome to Hubble's illustrious vision of the uncharted void...")
         Spacer(modifier = Modifier.height(80.dp))
     }
 }
